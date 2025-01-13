@@ -38,7 +38,7 @@ cleanup()
 setup(
     name=project_name,
     version=project_version,
-    url=f'https://github.com/CustomEnv/{org_project_name}',
+    url=f'https://github.com/CustomEnv/{project_name}',
     packages=get_packages(org_project_name),
     install_requires=[
         'Appium-Python-Client>=2.1.2',
@@ -56,10 +56,10 @@ setup(
     author_email='vladimir.podolyan64@gmail.com',
     author='Podolian Vladimir',
     project_urls={
-        'Source': f'https://github.com/CustomEnv/{org_project_name}',
-        'Tracker': f'https://github.com/CustomEnv/{org_project_name}/issues',
+        'Source': f'https://github.com/CustomEnv/{project_name}',
+        'Tracker': f'https://github.com/CustomEnv/{project_name}/issues',
         'Documentation': f'https://{project_name}.readthedocs.io',
-        'Changelog': f'https://github.com/CustomEnv/{org_project_name}/blob/master/CHANGELOG.md'
+        'Changelog': f'https://github.com/CustomEnv/{project_name}/blob/master/CHANGELOG.md'
     },
     classifiers=[
         'Development Status :: 4 - Beta',
