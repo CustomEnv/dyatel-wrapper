@@ -1,5 +1,9 @@
 # Dyatel Wrapper Documentation
 
+```{warning}
+Archived and moved to [CustomEnv/mops](https://github.com/CustomEnv/mops)
+```
+
 Dyatel Wrapper is a powerful Python framework that seamlessly wraps over Selenium, Appium, and sync Playwright,
 providing a unified interface for browser and mobile automation. With Dyatel Wrapper, you can effortlessly switch 
 between these engines within the same test, allowing you to leverage the unique features of each framework without boundaries.
@@ -27,11 +31,11 @@ Dyatel Wrapper is an open-source project, and we welcome contributions from the 
 
 ## License
 
-Dyatel Wrapper is licensed under the Apache License. See the [LICENSE](https://github.com/CustomEnv/dyatel/blob/master/LICENSE) file for more details.
+Dyatel Wrapper is licensed under the Apache License. See the [LICENSE](https://github.com/CustomEnv/dyatel-wrapper/blob/master/LICENSE) file for more details.
 
 ## Support
 
-If you encounter any issues or have questions, please feel free to reach out via our [GitHub Issues](https://github.com/CustomEnv/dyatel/issues) page.
+If you encounter any issues or have questions, please feel free to reach out via our [GitHub Issues](https://github.com/CustomEnv/dyatel-wrapper/issues) page.
 
 Thank you for choosing Dyatel Wrapper for your automation needs!
 

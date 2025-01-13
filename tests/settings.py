@@ -1,7 +1,7 @@
 import os
 
 domain_name = 'https://customenv.github.io'
-repo_name = 'dyatel-playground'
+repo_name = 'test-automation-playground'
 
 appium_logs_path = '.tox/.tmp/logs/android_appium.txt'
 android_device_start_timeout = 60

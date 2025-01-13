@@ -14,7 +14,7 @@ import requests
 from PIL import Image
 
 
-REPO = 'CustomEnv/dyatel'
+REPO = 'CustomEnv/dyatel-wrapper'
 ARTIFACT_NAME = 'allure-report'
 
 

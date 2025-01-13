@@ -18,7 +18,7 @@ pip3 install dyatel-wrapper
 <br>
 
 ```{note}
-For the PageObject example, the [Dyatel Wrapper Playground](https://customenv.github.io/dyatel-playground/) page is used.
+For the PageObject example, the [Dyatel Wrapper Playground](https://customenv.github.io/test-automation-playground/) page is used.
 ``` 
 ```python
 from dyatel.base.element import Element
@@ -147,7 +147,7 @@ from ... import MainPage  # noqa
 
 # pytest function
 def test_example(driver_wrapper):
-    driver_wrapper.get("https://customenv.github.io/dyatel-playground/")
+    driver_wrapper.get("https://customenv.github.io/test-automation-playground/")
     forms_page = MainPage().navigate_to_frames_page()
     
     assert forms_page.is_page_opened(), 'Forms Page is not opened after navigation'

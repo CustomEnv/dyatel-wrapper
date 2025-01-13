@@ -1,7 +1,7 @@
 <h1 align="center">Dyatel Wrapper</h1>
 
 <p align="center">
-    <a href="https://github.com/CustomEnv/dyatel/blob/master/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/CustomEnv/dyatel?logo=github&color=%234F2684&labelColor=%232E353B"></a>
+    <a href="https://github.com/CustomEnv/dyatel-wrapper/blob/master/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/CustomEnv/dyatel?logo=github&color=%234F2684&labelColor=%232E353B"></a>
     <a href="https://pypi.org/project/dyatel-wrapper/"><img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/dyatel-wrapper?logo=pypi&labelColor=%232E353B"></a>
     <a href="https://pypi.org/project/dyatel-wrapper/"><img alt="PyPI - Version" src="https://img.shields.io/pypi/v/dyatel-wrapper?logo=pypi&labelColor=%232E353B"></a>
 </p> 
@@ -37,10 +37,10 @@ Dyatel Wrapper is an open-source project, and we welcome contributions from the 
 
 ## License
 
-Dyatel Wrapper is licensed under the Apache License. See the [LICENSE](https://github.com/CustomEnv/dyatel/blob/master/LICENSE) file for more details.
+Dyatel Wrapper is licensed under the Apache License. See the [LICENSE](https://github.com/CustomEnv/dyatel-wrapper/blob/master/LICENSE) file for more details.
 
 ## Support
 
-If you encounter any issues or have questions, please feel free to reach out via our [GitHub Issues](https://github.com/CustomEnv/dyatel/issues) page.
+If you encounter any issues or have questions, please feel free to reach out via our [GitHub Issues](https://github.com/CustomEnv/dyatel-wrapper/issues) page.
 
 Thank you for choosing Dyatel Wrapper for your automation needs!
