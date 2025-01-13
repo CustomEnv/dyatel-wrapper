@@ -1,4 +1,9 @@
-# Dyatel Changelog
+# Dyatel-Wrapper Changelog
+
+## v2.4.1  
+*Release date: 2025-01-13*
+
+- Project archived and moved to [CustomEnv/mops](https://github.com/CustomEnv/mops)
 
 <br>
 
